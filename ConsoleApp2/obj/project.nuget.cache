@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qPmAQaS9S/uAnuw9zjFxIs4Jzo3PDajrvMdbAs/A6uTzpuEMD8heKy+SEOzR+QIN1uGNlVcy2nTAtFzrTbGWLg==",
+  "success": true,
+  "projectFilePath": "F:\\Microsoft Visual Studio\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRATIK\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\PRATIK\\.nuget\\packages\\spire.pdf\\8.8.6\\spire.pdf.8.8.6.nupkg.sha512",
+    "C:\\Users\\PRATIK\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\PRATIK\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\PRATIK\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
